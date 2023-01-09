@@ -7,4 +7,4 @@ A simple Discord bot that connects to a Roblox game.
 
 ## License
 
-RoControl is licensed under the GNU GPL v2 license. [View it here.](https://github.com/Dev0xz02/nightlycontrol/blob/main/LICENSE)
+NightlyControl is licensed under the GNU GPL v2 license. [View it here.](https://github.com/Dev0xz02/nightlycontrol/blob/main/LICENSE)
